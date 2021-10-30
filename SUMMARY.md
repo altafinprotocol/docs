@@ -8,4 +8,5 @@
 
 ## Protocols
 
-* [Divergence](protocols/divergence.md)
+* [Divergence](protocols/divergence/README.md)
+  * [Test](protocols/divergence/test.md)
