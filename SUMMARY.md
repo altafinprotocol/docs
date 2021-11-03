@@ -8,7 +8,6 @@
 
 ## Protocols
 
-* [Test 001](protocols/test-001.md)
 * [Divergence](protocols/divergence/README.md)
   * [Test](protocols/divergence/test.md)
   * [Test 2](protocols/divergence/test-2.md)
