@@ -18,3 +18,13 @@
 
 ![](https://images.ctfassets.net/dj2ij87ekk1y/2zzG8gaAVeQepeYyXqzzlC/381d25ea568d3eef287a5efd891ab958/Altafin\_portfolio.png)
 
+{% tabs %}
+{% tab title="First Tab" %}
+Hello
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Hello
+{% endtab %}
+{% endtabs %}
+
