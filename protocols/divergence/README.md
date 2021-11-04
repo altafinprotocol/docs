@@ -4,11 +4,11 @@
 **Good to know:** Learn how to utilize the AltaFin Divergence protocol to execute your arbitrage trades across multiple exchanges.
 {% endhint %}
 
-|           |   |   |
-| --------- | - | - |
-| Uniswap   |   |   |
-| SushiSwap |   |   |
-| Dodo      |   |   |
+| Supported Exchange |                                Contract ID |             |
+| ------------------ | -----------------------------------------: | ----------- |
+| Uniswap            | 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984 | `uniswap`   |
+| SushiSwap          | 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984 | `sushiswap` |
+| Dodo               | 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984 | `dodo`      |
 
 {% swagger method="get" path="" baseUrl="" summary="" %}
 {% swagger-description %}
