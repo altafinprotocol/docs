@@ -6,7 +6,7 @@ Welcome to the AltaFin Divergence docs.
 
 Divergence is an arbitrage smart contract built on Uniswap Flash Swaps. It lets you borrow up to millions of dollars of capital, execute swaps on 2 decentralized exchanges, pay back your loan + fees, and collect your profit—all in a single transaction.
 
-#### Supported Exchanges
+### Supported Exchanges
 
 | Exchanges      | Router Address                               |
 | -------------- | -------------------------------------------- |
@@ -20,9 +20,9 @@ Divergence is an arbitrage smart contract built on Uniswap Flash Swaps. It lets 
 
 ### Contract Address
 
-| Network | Address                                    |
-| ------- | ------------------------------------------ |
-| Mainnet | 0x018c02062DE653465DF1a780Edd371450504670a |
+| Network | Address                                      |
+| ------- | -------------------------------------------- |
+| Mainnet | `0x018c02062DE653465DF1a780Edd371450504670a` |
 
 ### Contract ABI
 
