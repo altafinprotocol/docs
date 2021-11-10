@@ -20,9 +20,9 @@ Divergence is an arbitrage smart contract built on Uniswap Flash Swaps. It lets 
 
 ### Contract Address
 
-| Network | Address                                      |
-| ------- | -------------------------------------------- |
-| Mainnet | `0x1ae05b37F97b9946ae3a777Ef68E5c85411162F9` |
+| Network | Address                                    |
+| ------- | ------------------------------------------ |
+| Mainnet | 0x018c02062DE653465DF1a780Edd371450504670a |
 
 ### Contract ABI
 
