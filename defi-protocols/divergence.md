@@ -30,7 +30,9 @@ Divergence is an arbitrage smart contract built on Uniswap Flash Swaps. It lets 
 "abi": [ { "inputs": [], "stateMutability": "nonpayable", "type": "constructor" }, { "anonymous": false, "inputs": [ { "indexed": false, "internalType": "address", "name": "", "type": "address" }, { "indexed": false, "internalType": "uint256", "name": "", "type": "uint256" } ], "name": "Received", "type": "event" }, { "inputs": [], "name": "WETH9", "outputs": [ { "internalType": "address", "name": "", "type": "address" } ], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "factory", "outputs": [ { "internalType": "address", "name": "", "type": "address" } ], "stateMutability": "view", "type": "function" }, { "inputs": [ { "components": [ { "internalType": "address", "name": "inputToken", "type": "address" }, { "internalType": "uint256", "name": "amount0", "type": "uint256" }, { "internalType": "uint256", "name": "slippage", "type": "uint256" }, { "internalType": "address", "name": "loanPairToken", "type": "address" }, { "internalType": "address", "name": "outputToken", "type": "address" }, { "internalType": "uint24", "name": "flashLoanFee", "type": "uint24" }, { "internalType": "uint24", "name": "uniPoolFee", "type": "uint24" }, { "internalType": "address", "name": "exchange0", "type": "address" }, { "internalType": "address", "name": "exchange1", "type": "address" } ], "internalType": "struct Divergence0_2.FlashParams", "name": "params", "type": "tuple" } ], "name": "initFlash", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [], "name": "owner", "outputs": [ { "internalType": "address", "name": "", "type": "address" } ], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "refundETH", "outputs": [], "stateMutability": "payable", "type": "function" }, { "inputs": [], "name": "swapRouter", "outputs": [ { "internalType": "contract ISwapRouter", "name": "", "type": "address" } ], "stateMutability": "view", "type": "function" }, { "inputs": [ { "internalType": "address", "name": "token", "type": "address" }, { "internalType": "uint256", "name": "amountMinimum", "type": "uint256" }, { "internalType": "address", "name": "recipient", "type": "address" } ], "name": "sweepToken", "outputs": [], "stateMutability": "payable", "type": "function" }, { "inputs": [ { "internalType": "uint256", "name": "fee0", "type": "uint256" }, { "internalType": "uint256", "name": "fee1", "type": "uint256" }, { "internalType": "bytes", "name": "data", "type": "bytes" } ], "name": "uniswapV3FlashCallback", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [ { "internalType": "uint256", "name": "amountMinimum", "type": "uint256" }, { "internalType": "address", "name": "recipient", "type": "address" } ], "name": "unwrapWETH9", "outputs": [], "stateMutability": "payable", "type": "function" }, { "inputs": [ { "internalType": "address", "name": "token", "type": "address" }, { "internalType": "address", "name": "recipient", "type": "address" }, { "internalType": "uint256", "name": "value", "type": "uint256" } ], "name": "withdrawToken", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "stateMutability": "payable", "type": "receive" } ]
 ```
 
-Uniswap flash swaps allow you to withdraw up to the full reserves of any ERC20 token on Uniswap and execute arbitrary logic at no upfront cost, provided that by the end of the transaction you either:
+### Flash Swap
+
+Uniswap Flash Swaps allow you to withdraw up to the full reserves of any ERC20 token on Uniswap and execute arbitrary logic at no upfront cost, provided that by the end of the transaction you either:
 
 * pay for the withdrawn ERC20 tokens with the corresponding pair tokens
 * return the withdrawn ERC20 tokens along with a small fee
@@ -43,11 +45,11 @@ Flash swaps are incredibly useful because they obviate upfront capital requireme
 
 This method executes the following steps in a single transaction:
 
-1\. Borrows an ERC20 token (token0) from a Uniswap Liquidity Pool via Flash Loan
+1\. Borrows an ERC20 token "token0" from a Uniswap Liquidity Pool via Flash Loan
 
-2\. Swaps token0 for another ERC20 token (token1) on a DEX (exchange0)
+2\. Swaps token0 for another ERC20 token "token1" on a DEX "exchange0"
 
-3\. Swaps token1 back to token0 on a second DEX (exchange1)
+3\. Swaps token1 back to token0 on a second DEX "exchange1"
 
 4\. Repays the Flash Loan + all fees
 
