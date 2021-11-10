@@ -10,13 +10,7 @@ Follow our easy to use guides to interact with the AltaFin protocols.
 
 ![](https://images.ctfassets.net/dj2ij87ekk1y/3K6QcsaK3l9deQaJOkMfCb/07bc13b9bea66b0887437026cdbed486/altafin\_defi\_divergence\_1800x1200.png)
 
-// Single transaction arbitrage across 2 DEX
-
-// All major DEX support
-
-// No capital required
-
-// Simple fees: 50 AFN + 3% profit
+[View Divergence Docs >](defi-protocols/divergence.md)
 
 #### Discord
 
