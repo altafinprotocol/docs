@@ -1,5 +1,5 @@
 # Intro to using AltaFin arbitrage in smart contracts
 
-{% hint style="info" %}
-&#x20;**Coming soon:** AltaFin Docs will be released within the next 7 days
-{% endhint %}
+Learn how to ... an arbitrage opportunity between two tokens and seven different exchanges using the AltaFin Divergence smart contract.
+
+#### Running a transaction
