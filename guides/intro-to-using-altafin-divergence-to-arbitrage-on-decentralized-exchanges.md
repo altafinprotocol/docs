@@ -47,18 +47,18 @@ Let's say you called this function using `LINK` and `AAVE` as your trade-able pa
 3. Swap `10.83 AAVE` for  `118.2 LINK` on SushiSwap
 4. Pay pack original Uniswap Flash Swap `100 LINK` + 0.3% fee of `0.3` for borrowing `100 LINK` from Uniswap Flash Swap in Step 1
 5. Calculate Gross Profit in `LINK` of `18.2 - 0.3 = 17.9 LINK`
-6. Calculate 3% smart contract fee of `0.537 LINK` from gross profit of `117.9 LINK` in Step 5
+6. Calculate 3% smart contract fee of `0.537 LINK` from gross profit of `17.9 LINK` in Step 5
 7. Calculate Net Profit in `LINK` of `17.9 - 0.537 = 17.363 LINK`&#x20;
 8. Return `17.363 LINK`
 
-|                                                                                          Uniswap V2 |                                                Balance |                                                                                         SushiSwap |
-| --------------------------------------------------------------------------------------------------: | -----------------------------------------------------: | ------------------------------------------------------------------------------------------------: |
-|                                          <p><strong>Borrow</strong></p><p><code>100 LINK</code></p> |                                               100 LINK |                                                                                                   |
-|            <p><strong>Swap</strong></p><p><code>100 LINK</code> &#x3C;> <code>10.83 AAVE</code></p> |                                             10.83 AAVE |                                                                                                   |
-|                                                                                                     |                                             118.2 LINK | <p><strong>Swap</strong></p><p><code>10.83 AAVE</code> &#x3C;> <code>118.2 LINK</code></p><p></p> |
-| <p><strong>Payback Borrow</strong></p><p><code>100 LINK</code> + <code>0.3 LINK</code> 0.3% fee</p> |                                              18.2 LINK |                                                                                                   |
-|                                                                                                     |                             3% Profit Fee (0.537 LINK) |                                                                                                   |
-|                                                                                                     | <p>------------</p><p><strong>17.363 LINK</strong></p> |                                                                                                   |
+|                                                       Uniswap V2 |                                    Balance |                                                   SushiSwap |
+| ---------------------------------------------------------------: | -----------------------------------------: | ----------------------------------------------------------: |
+|                                     <p>Borrow</p><p>100 LINK</p> |                                   100 LINK |                                                             |
+|        <p>Swap</p><p>100 LINK</p><p>&#x3C;></p><p>10.83 AAVE</p> |                                 10.83 AAVE |                                                             |
+|                                                                  |                                            | <p>Swap</p><p>10.83 AAVE</p><p>&#x3C;></p><p>118.2 LINK</p> |
+| <p>Payback Borrow</p><p>100 LINK + 0.3 LINK</p><p>(0.3% fee)</p> |                                  18.2 LINK |                                                             |
+|                                                                  | <p> Subtract 0.537 LINK</p><p>(3% fee)</p> |                                                             |
+|                                                                  |      <p>------------</p><p>17.363 LINK</p> |                                                             |
 
 In the example above, this transaction earned a profit of `17.363 LINK` without having to own any of the original `100 LINK`. This is how the smart contract does not require any capital.
 
