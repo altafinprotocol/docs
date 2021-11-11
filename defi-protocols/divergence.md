@@ -22,7 +22,7 @@ Divergence is an arbitrage smart contract built on Uniswap Flash Swaps. It lets 
 
 | Network | Address                                      |
 | ------- | -------------------------------------------- |
-| Mainnet | `0x018c02062DE653465DF1a780Edd371450504670a` |
+| Mainnet | `0xa8e88d68e8b114b18ce01cfa4566778d020789bb` |
 
 ### Contract ABI
 
@@ -64,14 +64,14 @@ Call `initFlash` with a single struct containing the following parameters:
 | Query Param   | Type    | Description                                             |
 | ------------- | ------- | ------------------------------------------------------- |
 | token0        | Address | Contract Address for token0                             |
-| amount0       | Number  | Amount of Base Token to be swapped (including decimals) |
-| slippage      | Number  | Percent slippage allowed                                |
-| loanPairToken | Address | Contract Address of Loan Pair Token                     |
 | token1        | Address | Contract Address of token1                              |
+| loanPairToken | Address | Contract Address of Loan Pair Token                     |
 | flashLoanFee  | Number  | Fee for Uniswap Flash Loan (10000, 3000, or 500)        |
 | poolFee       | Number  | Fee for Liquidity Pool (10000, 3000, or 500)            |
+| amount0       | Number  | Amount of Base Token to be swapped (including decimals) |
 | exchange0     | Address | Contract Address for First Exchange                     |
 | exchange1     | Address | Contract Address for Second Exchange                    |
+| slippage      | Number  | Percent slippage allowed                                |
 
 #### Examples
 
@@ -86,14 +86,14 @@ const divergenceContract = new hre.ethers.Contract(CONTRACT_ADDRESS, abi, signer
 ```
 const contractParams = { 
 token0: "0x6B175474E89094C44Da98b954EedeAC495271d0F", // DAI Contract Address
-amount0: 100000000000000000000, // 100 DAI w/ 18 Decimals
-slippage: 1, // 1% slippage allowance
-loanPairToken: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", // USDC Contract Address
 token1: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", //USDT Contract Address
+loanPairToken: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", // USDC Contract Address
 flashLoanFee: 3000, // 0.3% Uniswap Flash Loan Fee
 poolFee: 3000, // 0.3% Liquidity Pool Fee
+amount0: 100000000000000000000, // 100 DAI w/ 18 Decimals
 exchange0: "0xE592427A0AEce92De3Edee1F18E0157C05861564", // Uniswap V3 Router Address
-exchange1: "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F" // SushiSwap Router Address 
+exchange1: "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F", // SushiSwap Router Address
+slippage: 1 // 1% slippage allowance 
 }
 ```
 
