@@ -39,23 +39,19 @@ Uniswap Flash Swaps allow you to withdraw up to the full reserves of any ERC20 t
 
 Flash swaps are incredibly useful because they obviate upfront capital requirements and unnecessary order-of-operations constraints for multi-step transactions involving Uniswap.
 
-{% embed url="https://docs.uniswap.org/protocol/V2/concepts/core-concepts/flash-swaps" %}
+Learn more about Flash Swaps [here](https://docs.uniswap.org/protocol/V2/concepts/core-concepts/flash-swaps).
 
 #### initFlash
 
 This method executes the following steps in a single transaction:
 
-1\. Borrows an ERC20 token "token0" from a Uniswap Liquidity Pool via Flash Loan
+1. Borrows an ERC20 token "token0" from a Uniswap Liquidity Pool via Flash Loan
+2. Swaps token0 for another ERC20 token "token1" on a DEX "exchange0"
+3. Swaps token1 back to token0 on a second DEX "exchange1"
+4. Repays the Flash Loan + all fees
+5. Deposits profit into your wallet
 
-2\. Swaps token0 for another ERC20 token "token1" on a DEX "exchange0"
-
-3\. Swaps token1 back to token0 on a second DEX "exchange1"
-
-4\. Repays the Flash Loan + all fees
-
-5\.  Deposits profit into your wallet
-
-Note: Transaction will revert if Flash Loan and fees are unable to be paid.
+_Note: Transaction will revert if Flash Loan and fees are unable to be paid only costing a very small gas fee._
 
 #### Parameters
 
@@ -73,7 +69,18 @@ Call `initFlash` with a single struct containing the following parameters:
 | exchange1     | Address | Contract Address for Second Exchange                    |
 | slippage      | Number  | Percent slippage allowed                                |
 
-#### Examples
+### Gas Cost
+
+For successful transactions, the gas used by transactions is approximately 680,000.
+
+| Gas Price | Transaction Fee |
+| --------- | --------------- |
+| 50        | 0.034 Ether     |
+| 100       | 0.068 Ether     |
+| 200       | 0.136 Ether     |
+| 300       | 0.204 Ether     |
+
+### Examples
 
 #### Hardhat + Javascript
 
@@ -85,15 +92,15 @@ const divergenceContract = new hre.ethers.Contract(CONTRACT_ADDRESS, abi, signer
 
 ```
 const contractParams = { 
-token0: "0x6B175474E89094C44Da98b954EedeAC495271d0F", // DAI Contract Address
-token1: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", //USDT Contract Address
-loanPairToken: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", // USDC Contract Address
-flashLoanFee: 3000, // 0.3% Uniswap Flash Loan Fee
-poolFee: 3000, // 0.3% Liquidity Pool Fee
-amount0: 100000000000000000000, // 100 DAI w/ 18 Decimals
-exchange0: "0xE592427A0AEce92De3Edee1F18E0157C05861564", // Uniswap V3 Router Address
-exchange1: "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F", // SushiSwap Router Address
-slippage: 1 // 1% slippage allowance 
+    token0: "0x6B175474E89094C44Da98b954EedeAC495271d0F", // DAI Contract Address
+    token1: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", //USDT Contract Address
+    loanPairToken: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", // USDC Contract Address
+    flashLoanFee: 3000, // 0.3% Uniswap Flash Loan Fee
+    poolFee: 3000, // 0.3% Liquidity Pool Fee
+    amount0: 100000000000000000000, // 100 DAI w/ 18 Decimals
+    exchange0: "0xE592427A0AEce92De3Edee1F18E0157C05861564", // Uniswap V3 Router Address
+    exchange1: "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F", // SushiSwap Router Address
+    slippage: 1 // 1% slippage allowance 
 }
 ```
 
