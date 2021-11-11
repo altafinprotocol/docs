@@ -4,7 +4,7 @@
 
 ## Guides
 
-* [Intro to using AltaFin arbitrage in smart contracts](guides/intro-to-using-altafin-arbitrage-in-smart-contracts.md)
+* [Intro to using AltaFin Divergence to arbitrage on decentralized exchanges](guides/intro-to-using-altafin-divergence-to-arbitrage-on-decentralized-exchanges.md)
 
 ## DeFi Protocols
 
