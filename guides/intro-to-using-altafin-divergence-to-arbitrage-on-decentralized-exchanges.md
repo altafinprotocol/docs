@@ -51,6 +51,15 @@ Let's say you called this function using `LINK` and `AAVE` as your trade-able pa
 7. Calculate Net Profit in `LINK` of `17.9 - 0.537 = 17.363 LINK`&#x20;
 8. Return `17.363 LINK`
 
+|                                                                                          Uniswap V2 |                                                Balance |                                                                                         SushiSwap |
+| --------------------------------------------------------------------------------------------------: | -----------------------------------------------------: | ------------------------------------------------------------------------------------------------: |
+|                                          <p><strong>Borrow</strong></p><p><code>100 LINK</code></p> |                                               100 LINK |                                                                                                   |
+|            <p><strong>Swap</strong></p><p><code>100 LINK</code> &#x3C;> <code>10.83 AAVE</code></p> |                                             10.83 AAVE |                                                                                                   |
+|                                                                                                     |                                             118.2 LINK | <p><strong>Swap</strong></p><p><code>10.83 AAVE</code> &#x3C;> <code>118.2 LINK</code></p><p></p> |
+| <p><strong>Payback Borrow</strong></p><p><code>100 LINK</code> + <code>0.3 LINK</code> 0.3% fee</p> |                                              18.2 LINK |                                                                                                   |
+|                                                                                                     |                             3% Profit Fee (0.537 LINK) |                                                                                                   |
+|                                                                                                     | <p>------------</p><p><strong>17.363 LINK</strong></p> |                                                                                                   |
+
 In the example above, this transaction earned a profit of `17.363 LINK` without having to own any of the original `100 LINK`. This is how the smart contract does not require any capital.
 
 These calculations do not include gas fees. You will want to make sure that your potential profit exceeds the gas fees of the smart contract.
