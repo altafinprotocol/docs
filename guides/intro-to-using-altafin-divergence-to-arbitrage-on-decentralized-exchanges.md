@@ -31,13 +31,13 @@ Here is an simplified example of how the `initFlash` would be called:
 ```
 // Example Trade
 
-function initFlash[
+function initFlash({
     token0: 'LINK',
     token1: 'AAVE',
     amount: 100,
     exchange0: 'uniswapV2',
     exchange1: 'sushiswap'
-]
+})
 ```
 
 Let's say you called this function using `LINK` and `AAVE` as your trade-able pair, here is how it would work:
