@@ -4,10 +4,6 @@
 
 Learn how to execute an arbitrage opportunity between two decentralized exchanges using the AltaFin Divergence smart contract.
 
-The smart contract supports 7 exchanges, listed below:
-
-
-
 ### What is arbitrage?
 
 Arbitrage is the act of buying a token in one decentralized exchange and instantly selling it in another decentralized exchange at a higher price, thus earning a profit.
