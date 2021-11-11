@@ -45,13 +45,15 @@ Let's say you called this function using `LINK` and `AAVE` as your trade-able pa
 1. Borrow `100 LINK` from Uniswap Flash Swaps
 2. Swap `100 LINK` for `10.83 AAVE` on Uniswap V2 Exchange
 3. Swap `10.83 AAVE` for  `118.2 LINK` on SushiSwap
-4. Pay 0.3% fee of `0.3` for borrowing `100 LINK` from Uniswap Flash Swap in Step 1
-5. Calculate Gross Profit in `LINK` of `118.2 - 0.3 = 117.9 LINK`
-6. Calculate 3% smart contract fee of `3.537 LINK` from gross profit of `117.9 LINK` in Step 5
-7. Calculate Net Profit in `LINK` of `117.9 - 3.537 = 114.363 LINK`&#x20;
-8. Return `114.363 LINK`
+4. Pay pack original Uniswap Flash Swap `100 LINK` + 0.3% fee of `0.3` for borrowing `100 LINK` from Uniswap Flash Swap in Step 1
+5. Calculate Gross Profit in `LINK` of `18.2 - 0.3 = 17.9 LINK`
+6. Calculate 3% smart contract fee of `0.537 LINK` from gross profit of `117.9 LINK` in Step 5
+7. Calculate Net Profit in `LINK` of `17.9 - 0.537 = 17.363 LINK`&#x20;
+8. Return `17.363 LINK`
 
-In the example above, this transaction earned a profit of `14.363 LINK` without having to own any of the original `100 LINK`. This is how the smart contract does not require any capital.
+In the example above, this transaction earned a profit of `17.363 LINK` without having to own any of the original `100 LINK`. This is how the smart contract does not require any capital.
+
+These calculations do not include gas fees. You will want to make sure that your potential profit exceeds the gas fees of the smart contract.
 
 ### How do I use the AltaFin smart contract?
 
