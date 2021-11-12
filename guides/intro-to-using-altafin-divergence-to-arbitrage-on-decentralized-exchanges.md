@@ -51,14 +51,14 @@ Let's say you called this function using `LINK` and `AAVE` as your trade-able pa
 7. Calculate Net Profit in `LINK` of `17.9 - 0.537 = 17.363 LINK`&#x20;
 8. Return `17.363 LINK`
 
-|                                                       Uniswap V2 |                                    Balance |                                                   SushiSwap |
-| ---------------------------------------------------------------: | -----------------------------------------: | ----------------------------------------------------------: |
-|                                     <p>Borrow</p><p>100 LINK</p> |                                   100 LINK |                                                             |
-|        <p>Swap</p><p>100 LINK</p><p>&#x3C;></p><p>10.83 AAVE</p> |                                 10.83 AAVE |                                                             |
-|                                                                  |                                            | <p>Swap</p><p>10.83 AAVE</p><p>&#x3C;></p><p>118.2 LINK</p> |
-| <p>Payback Borrow</p><p>100 LINK + 0.3 LINK</p><p>(0.3% fee)</p> |                                  18.2 LINK |                                                             |
-|                                                                  | <p> Subtract 0.537 LINK</p><p>(3% fee)</p> |                                                             |
-|                                                                  |      <p>------------</p><p>17.363 LINK</p> |                                                             |
+|                                    Uniswap V2 |                       Balance |                     SushiSwap |
+| --------------------------------------------: | ----------------------------: | ----------------------------: |
+|                               Borrow 100 LINK |                      100 LINK |                               |
+|                   Swap 100 LINK <> 10.83 AAVE |                    10.83 AAVE |                               |
+|                                               |                               | Swap 10.83 AAVE <> 118.2 LINK |
+| Payback Borrow 100 LINK + 0.3 LINK (0.3% fee) |                     18.2 LINK |                               |
+|                                               |  Subtract 0.537 LINK (3% fee) |                               |
+|                                               |                   17.363 LINK |                               |
 
 In the example above, this transaction earned a profit of `17.363 LINK` without having to own any of the original `100 LINK`. This is how the smart contract does not require any capital.
 
