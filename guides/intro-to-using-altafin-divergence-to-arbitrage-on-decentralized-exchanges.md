@@ -55,8 +55,8 @@ Let's say you called this function using `LINK` and `AAVE` as your trade-able pa
 | --------------------------------------------: | ----------------------------: | ----------------------------: |
 |                               Borrow 100 LINK |                      100 LINK |                               |
 |                   Swap 100 LINK <> 10.83 AAVE |                    10.83 AAVE |                               |
-|                                               |                               | Swap 10.83 AAVE <> 118.2 LINK |
-| Payback Borrow 100 LINK + 0.3 LINK (0.3% fee) |                     18.2 LINK |                               |
+|                                               |                    118.2 LINK | Swap 10.83 AAVE <> 118.2 LINK |
+| Payback Borrow 100 LINK + 0.3 LINK (0.3% fee) |                     17.9 LINK |                               |
 |                                               |  Subtract 0.537 LINK (3% fee) |                               |
 |                                               |                   17.363 LINK |                               |
 
