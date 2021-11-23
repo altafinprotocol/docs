@@ -10,6 +10,6 @@
 
 * [Divergence](defi-protocols/divergence.md)
 
-## Token
+## API
 
-* [Supply API Endpoints](token/supply-api-endpoints.md)
+* [Token Supply Endpoints](api/token-supply-endpoints.md)
