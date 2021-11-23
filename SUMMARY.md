@@ -9,3 +9,7 @@
 ## DeFi Protocols
 
 * [Divergence](defi-protocols/divergence.md)
+
+## Token
+
+* [Supply API Endpoints](token/supply-api-endpoints.md)
