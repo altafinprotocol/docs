@@ -13,3 +13,7 @@
 ## API
 
 * [Token Supply Endpoints](api/token-supply-endpoints.md)
+
+## FAQ
+
+* [AltaHelix FAQ](faq/altahelix-faq.md)
