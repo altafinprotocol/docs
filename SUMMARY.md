@@ -20,7 +20,3 @@
 ## API
 
 * [AFN Token Supply Endpoints](api/afn-token-supply-endpoints.md)
-
-## FAQ
-
-* [AltaHelix FAQ](faq/altahelix-faq.md)
