@@ -4,15 +4,22 @@
 
 ## Guides
 
-* [Intro to using AltaFin Divergence to arbitrage on decentralized exchanges](guides/intro-to-using-altafin-divergence-to-arbitrage-on-decentralized-exchanges.md)
+* [Stake AFN for xAFN using AltaHelix](guides/stake-afn-for-xafn-using-altahelix.md)
+* [Intro to using AltaFin Arbitrage to arbitrage on decentralized exchanges](guides/intro-to-using-altafin-arbitrage-to-arbitrage-on-decentralized-exchanges.md)
 
 ## DeFi Protocols
 
-* [Divergence](defi-protocols/divergence.md)
+* [Arbitrage V1](defi-protocols/arbitrage-v1.md)
+* [Staking V1](defi-protocols/staking-v1.md)
+
+## Tokens
+
+* [AltaFin (AFN)](tokens/altafin-afn.md)
+* [AltaHelix (xAFN)](tokens/altahelix-xafn.md)
 
 ## API
 
-* [Token Supply Endpoints](api/token-supply-endpoints.md)
+* [AFN Token Supply Endpoints](api/afn-token-supply-endpoints.md)
 
 ## FAQ
 

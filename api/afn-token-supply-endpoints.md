@@ -1,8 +1,8 @@
-# Supply API Endpoints
+# AFN Token Supply Endpoints
 
 ### **Project Data**
 
-AltaFin has a token project API endpoint that will return details about the project in addition to **totalSupply** and **totalCirculating** values.
+AltaFin has an AFN token project API endpoint that will return details about the AFN token project in addition to **totalSupply** and **totalCirculating** values.
 
 **totalSupply** and **totalCirculating** values are returned in `ether` units.
 

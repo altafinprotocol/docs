@@ -1,4 +1,4 @@
-# Intro to using AltaFin Divergence to arbitrage on decentralized exchanges
+# Intro to using AltaFin Arbitrage to arbitrage on decentralized exchanges
 
 ![](https://images.ctfassets.net/dj2ij87ekk1y/27Su0yjuJ7VXavjTbA2z0f/daa0a0fced000edbf730f87fab23a2db/altafin\_defi\_divergence\_exchanges\_03.png?h=250)
 
@@ -82,5 +82,5 @@ The Divergence V1 smart contract supports the following exchanges:
 
 ### I'm ready to start trading, how do I learn more?
 
-View the Divergence DeFi Protocol API documents [here](../defi-protocols/divergence.md).
+View the Divergence DeFi Protocol API documents [here](../defi-protocols/arbitrage-v1.md).
 
