@@ -8,7 +8,7 @@
 
 **If I stake my xAFN on another platform do I continue to earn AFN rewards?** Yes, you do. Your AFN rewards will continue to accrue. You can view your rewards here: [https://defi.altafin.co/stake](https://defi.altafin.co/stake).
 
-**What is the current ROI for xAFN staking?**[ **** ](https://analytics.sushi.com/bar)You can check the ROI for xAFN here: [https://defi.altafin.co/stake](https://defi.altafin.co/stake). Please note that this number changes continuously due to fluctuating volume on our platform and the number of AFN staked. It therefore is difficult for us to present future predictions on its development.
+**What is the current ROI for xAFN staking?** You can check the ROI for xAFN here: [https://defi.altafin.co/stake](https://defi.altafin.co/stake). Please note that this number changes continuously due to fluctuating volume on our platform and the number of AFN staked. It therefore is difficult for us to present future predictions on its development.
 
 **Why is my xAFN balance lower than my AFN balance?** When you stake your AFN tokens, you “purchase” a share of the xAFN pool. Because xAFN appreciates in value compared to AFN, the amount of xAFN you get for your AFN decreases overtime. ****&#x20;
 
