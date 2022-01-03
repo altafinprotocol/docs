@@ -4,6 +4,10 @@
 
 Follow our easy to use guides to interact with the AltaFin protocols.
 
+[Stake AFN for xAFN using AltaHelix >](guides/stake-afn-for-xafn-using-altahelix.md)
+
+[Intro to using AltaFin Arbitrage to arbitrage on decentralized exchanges >](guides/intro-to-using-altafin-arbitrage-to-arbitrage-on-decentralized-exchanges.md)
+
 ## DeFi Protocols
 
 ### Staking
