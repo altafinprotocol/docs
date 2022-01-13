@@ -19,12 +19,23 @@ AltaFin has an AFN token project API endpoint that will return details about the
     "url": "https://altafin.co",
     "logo": "https://images.ctfassets.net/dj2ij87ekk1y/6QLADorHyGFcr804X0spbG/a11f3a582c9f6b40bc7b010d481c9242/AltaFin-Logo-Square-700x.png"
   },
-  "protocol": {
-    "name": "Ethereum",
-    "asset": "ETH",
-    "type": "ERC-20",
-    "contractId": "0xe46f290cd59195a83e757891430d8d517d16b334"
-  },
+  "protocol": [
+    {
+      "name": "Ethereum",
+      "type": "ERC-20",
+      "contractId": "0xe46f290cd59195a83e757891430d8d517d16b334"
+    },
+    {
+      "name": "Polygon",
+      "type": "ERC-20",
+      "contractId": "0xb4a055786ee8b9c9a09156bb185eba7b91540ee5"
+    },
+    {
+      "name": "Solana",
+      "type": "SPL",
+      "contractId": "BCTqtHLmYTFyqXTVPtggwoJ2fkV17AVyZXZCTbKXoaeX"
+    }
+  ],
   "totalCirculating": "1645404455.617882",
   "totalSupply": "10000000000"
 }
