@@ -23,17 +23,20 @@ AltaFin has an AFN token project API endpoint that will return details about the
     {
       "name": "Ethereum",
       "type": "ERC-20",
-      "contractId": "0xe46f290cd59195a83e757891430d8d517d16b334"
+      "contractId": "0xe46f290cd59195a83e757891430d8d517d16b334",
+      "explorerLink": "https://etherscan.io/token/0xe46f290cd59195a83e757891430d8d517d16b334"
     },
     {
       "name": "Polygon",
       "type": "ERC-20",
-      "contractId": "0xb4a055786ee8b9c9a09156bb185eba7b91540ee5"
+      "contractId": "0xb4a055786ee8b9c9a09156bb185eba7b91540ee5",
+      "explorerLink": "https://polygonscan.com/token/0xb4a055786ee8b9c9a09156bb185eba7b91540ee5"
     },
     {
       "name": "Solana",
       "type": "SPL",
-      "contractId": "BCTqtHLmYTFyqXTVPtggwoJ2fkV17AVyZXZCTbKXoaeX"
+      "contractId": "BCTqtHLmYTFyqXTVPtggwoJ2fkV17AVyZXZCTbKXoaeX",
+      "explorerLink": "https://solscan.io/token/BCTqtHLmYTFyqXTVPtggwoJ2fkV17AVyZXZCTbKXoaeX"
     }
   ],
   "totalCirculating": "1645404455.617882",
