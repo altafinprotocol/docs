@@ -1,20 +1,10 @@
-# Intro to using AltaFin Arbitrage to arbitrage on decentralized exchanges
-
-![](https://images.ctfassets.net/dj2ij87ekk1y/27Su0yjuJ7VXavjTbA2z0f/daa0a0fced000edbf730f87fab23a2db/altafin\_defi\_divergence\_exchanges\_03.png?h=250)
+# Intro to using AltaFin Divergence to arbitrage on decentralized exchanges
 
 Learn how to execute an arbitrage opportunity between two decentralized exchanges using the AltaFin Divergence smart contract.
 
-### What is arbitrage?
+![](../.gitbook/assets/altafin\_defi\_divergence\_1800x800.png)
 
-Arbitrage is the act of buying a token in one decentralized exchange and instantly selling it in another decentralized exchange at a higher price, thus earning a profit.
-
-Arbitrage takes advantage of the inevitable inefficiencies in markets. The effect of arbitrage is to converge the prices of similar tokens across different exchanges.
-
-### Why did AltaFin create this smart contract?
-
-We created this smart contract as we were experimenting in our lab with finding arbitrage opportunities. We found that it was easy to find the opportunities, but difficult to execute the trades.
-
-So we built this smart contract for any trader to use at a very low fee.
+![](https://images.ctfassets.net/dj2ij87ekk1y/27Su0yjuJ7VXavjTbA2z0f/daa0a0fced000edbf730f87fab23a2db/altafin\_defi\_divergence\_exchanges\_03.png?h=250)
 
 ### How does the AltaFin Divergence smart contract work?
 
@@ -24,9 +14,9 @@ Simplified a little bit, you call a function called `initFlash` and include the 
 * Token1: Token you wish to trade for
 * Amount: Amount of Token0 you wish to borrow and trade
 * Exchange0: Exchange where you wish to trade Token0 for Token1
-* Exchange1: Exchange where you with to trade Token1 back for Token0
+* Exchange1: Exchange where you wish to trade Token1 back for Token0
 
-Here is an simplified example of how the `initFlash` would be called:
+Here is a simplified example of how the `initFlash` would be called:
 
 ```
 // Example Trade

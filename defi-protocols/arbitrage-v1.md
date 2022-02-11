@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the AltaFin Arbitrage (called Divergence) docs.
+Welcome to the AltaFin Arbitrage (called Divergence) V1.
 
 Divergence is an arbitrage smart contract built on Uniswap Flash Swaps. It lets you borrow up to millions of dollars of capital, execute swaps on 2 decentralized exchanges, pay back your loan + fees, and collect your profit—all in a single transaction.
 
