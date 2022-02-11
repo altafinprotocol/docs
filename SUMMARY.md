@@ -2,7 +2,7 @@
 
 * [AltaFin Docs](README.md)
 
-## GETTING STARTED
+## Getting Started
 
 * [Understanding AFN](getting-started/understanding-afn.md)
 * [Understanding xAFN](getting-started/understanding-xafn.md)
@@ -20,14 +20,19 @@
 * [How to put an Earn contract up for bidding](tutorials/how-to-put-an-earn-contract-up-for-bidding.md)
 * [How to make a bid on an Earn contract](tutorials/how-to-make-a-bid-on-an-earn-contract.md)
 
-## ECOSYSTEM
+## Ecosystem
 
 * [Official AltaFin links](ecosystem/official-altafin-links.md)
 
+## FAQ
+
+* [xAFN Staking](faq/xafn-staking.md)
+* [AltaFin Earn](faq/altafin-earn.md)
+
 ## DeFi Protocols
 
-* [Staking V1](defi-protocols/staking-v1.md)
 * [Earn V1](defi-protocols/earn-v1.md)
+* [Staking V1](defi-protocols/staking-v1.md)
 * [Arbitrage V1](defi-protocols/arbitrage-v1.md)
 
 ## Tokens
@@ -40,8 +45,3 @@
 ## API
 
 * [AFN Token Supply Endpoints](api/afn-token-supply-endpoints.md)
-
-## FAQ
-
-* [xAFN Staking](faq/xafn-staking.md)
-* [AltaFin Earn](faq/altafin-earn.md)
