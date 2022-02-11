@@ -23,8 +23,6 @@
 ## ECOSYSTEM
 
 * [Official AltaFin links](ecosystem/official-altafin-links.md)
-* [Press Kit & Branding Assets](ecosystem/press-kit-and-branding-assets.md)
-* [Report a Security Vulnerability](ecosystem/report-a-security-vulnerability.md)
 
 ## DeFi Protocols
 
