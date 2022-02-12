@@ -16,7 +16,7 @@ To learn about our team, go to [https://altafin.co/company/about#team](https://a
 
 [Understanding AltaFin Earn](getting-started/understanding-altafin-earn.md)
 
-[Understanding AltaFIn Divergence](getting-started/understanding-altafin-divergence.md)
+[Understanding AltaFin Divergence](getting-started/understanding-altafin-divergence.md)
 
 ## Guides
 
@@ -32,7 +32,7 @@ Follow our easy-to-use guides to interact with the AltaFin protocols.
 
 ### Staking
 
-![](<.gitbook/assets/altafin\_defi\_helix\_1800x800 (1).png>)
+![](.gitbook/assets/altafin\_defi\_helix\_1800x800.png)
 
 [Understanding AFN](getting-started/understanding-afn.md)
 
@@ -46,7 +46,7 @@ Follow our easy-to-use guides to interact with the AltaFin protocols.
 
 ![](https://images.ctfassets.net/dj2ij87ekk1y/6GzgZTE9Smg9Wmm0Hl4ZFJ/5fa313c4dcee087b107226d5aae64117/altafin\_defi\_divergence\_1800x800.png)
 
-[Understanding AltaFIn Divergence](getting-started/understanding-altafin-divergence.md)
+[Understanding AltaFin Divergence](getting-started/understanding-altafin-divergence.md)
 
 [Intro to using AltaFin Divergence to arbitrage on decentralized exchanges](tutorials/intro-to-using-altafin-divergence-to-arbitrage-on-decentralized-exchanges.md)
 
