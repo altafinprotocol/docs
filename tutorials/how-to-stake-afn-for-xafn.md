@@ -2,7 +2,7 @@
 
 AltaFin not only offers you the opportunity to earn AFN and share in-platform fees and real-estate dividends with your dormant tokens, but you can also earn xAFN tokens from your AFN tokens! Rewards on rewards! All you need are some AFN tokens and some Ethereum (ETH) to get started!&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-02-03 at 12.29.31 PM.png>)
+![](../.gitbook/assets/StakeAFNforxAFNDashboard.png)
 
 ### How to Stake
 

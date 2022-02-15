@@ -8,7 +8,7 @@
 
 4\. Click Make Bid
 
-![](<../.gitbook/assets/Screen Shot 2022-02-08 at 4.06.41 PM.png>)
+![](../.gitbook/assets/HowToMakeABidOnAnEarnContractMakeABid.png)
 
 5\. Enter the amount of AFN that you want to offer
 

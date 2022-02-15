@@ -10,23 +10,23 @@ Opening a contract could be achieved by:
 
 3\. Click Open Earn Contract
 
-![](<../.gitbook/assets/Screen Shot 2022-02-08 at 2.03.55 PM (1).png>)
+![](<../.gitbook/assets/HowToOpenAnEarnContractDashboard (1).png>)
 
-3\.  Click Approve AFN (This will only show up if your wallet is not approved yet)
+4\.  Click Approve AFN (This will only show up if your wallet is not approved yet)
 
-![](<../.gitbook/assets/Screen Shot 2022-02-08 at 1.56.08 PM (1).png>)
+![](../.gitbook/assets/HowToOpenAnEarnContractContract.png)
 
-4\. Enter the AFN Amount that you want to invest
+5\. Enter the AFN Amount that you want to invest
 
-5\. Select the desired term
+6\. Select the desired term
 
-5\. Click Open Earn Contract
+7\. Click Open Earn Contract
 
 ![](../.gitbook/assets/BE4AFB6D-627A-43A5-AC25-BB2FE69C18EA.jpeg)
 
-6\. Confirm the transaction in your wallet where the gas fees will be added
+8\. Confirm the transaction in your wallet where the gas fees will be added
 
-7\. You will be taken to the contract dashboard that will contain essential information
+9\. You will be taken to the contract dashboard that will contain essential information
 
 ![](../.gitbook/assets/19995571-277F-41F9-8C3F-ADD77CE1A7DD.jpeg)
 
