@@ -10,7 +10,7 @@ Opening a contract could be achieved by:
 
 3\. Click Open Earn Contract
 
-![](<../.gitbook/assets/HowToOpenAnEarnContractDashboard (1).png>)
+![](../.gitbook/assets/HowToOpenAnEarnContract.png)
 
 4\.  Click Approve AFN (This will only show up if your wallet is not approved yet)
 
