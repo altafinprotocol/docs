@@ -1,6 +1,6 @@
 # Understanding AltaFin Earn
 
-Earn is an AltaFin feature that lets you loan your crypto via AFN and earn up to 12% APY in USDC bringing this way the massive wealth gains of real-world assets to the crypto industry.
+Earn is an AltaFin feature that lets you loan your crypto via AFN and earn up to 12.55% APY in USDC bringing this way the massive wealth gains of real-world assets to the crypto industry.
 
 Earn is currently supported on the following networks:
 
@@ -11,7 +11,7 @@ Earn is currently supported on the following networks:
 
 AltaFin offers 36, 24, 18, and 1 months terms with up to 12.55% APY.
 
-![](<../.gitbook/assets/Screen Shot 2022-02-08 at 1.56.08 PM (2).png>)
+![](../.gitbook/assets/open-earn-contract.png)
 
 ### Earn Tiers
 
