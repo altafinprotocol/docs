@@ -17,23 +17,20 @@ AltaFin offers 36, 24, 18, and 1 months terms with up to 19.75% APY.
 
 Alta Finance offers three different tiers that will unlock different APYs and ALTA bonuses. These terms are subject to change for new earn contracts.
 
-#### Tier Limits
+#### Tier Thresholds
 
-|          | Low | Medium | High |   |
-| -------- | --- | ------ | ---- | - |
-| 1-month  |     |        |      |   |
-| 18-month |     |        |      |   |
-| 24-month |     |        |      |   |
-| 36-month |     |        |      |   |
+| Low    | Medium  | High     |   |
+| ------ | ------- | -------- | - |
+| $5,000 | $25,000 | $150,000 |   |
 
 #### ALTA Bonuses
 
-|          | Low | Medium | High |   |
-| -------- | --- | ------ | ---- | - |
-| 1-month  |     |        |      |   |
-| 18-month |     |        |      |   |
-| 24-month |     |        |      |   |
-| 36-month |     |        |      |   |
+|          | Low   | Medium | High    |   |
+| -------- | ----- | ------ | ------- | - |
+| 1-month  | 100   | 4,000  | 20,000  |   |
+| 18-month | 250   | 8,000  | 40,000  |   |
+| 24-month | 500   | 13,000 | 65,000  |   |
+| 36-month | 1,000 | 20,000 | 100,000 |   |
 
 ### Bonus Interest Rate
 
