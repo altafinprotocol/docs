@@ -26,6 +26,15 @@ Alta Finance offers three different tiers that will unlock different APYs and AL
 | 24-month |     |        |      |   |
 | 36-month |     |        |      |   |
 
+#### ALTA Bonuses
+
+|          | Low | Medium | High |   |
+| -------- | --- | ------ | ---- | - |
+| 1-month  |     |        |      |   |
+| 18-month |     |        |      |   |
+| 24-month |     |        |      |   |
+| 36-month |     |        |      |   |
+
 ### Bonus Interest Rate
 
 Real world assets are illiquid by nature which could delay payments from our side. Though delayed payments are never expected, Alta Finance architected a bonus interest rate for additional compensation to the Earn contract holder should the close out take longer than 7 days after the contract close date.&#x20;
