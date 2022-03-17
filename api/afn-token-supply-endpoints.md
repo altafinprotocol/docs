@@ -2,7 +2,7 @@
 
 ### **Project Data**
 
-AltaFin has an AFN token project API endpoint that will return details about the AFN token project in addition to **totalSupply** and **totalCirculating** values.
+Alta Finance has an ALTA token project API endpoint that will return details about the ALTA token project in addition to **totalSupply** and **totalCirculating** values.
 
 **totalSupply** and **totalCirculating** values are returned in `ether` units.
 

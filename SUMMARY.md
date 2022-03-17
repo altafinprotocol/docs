@@ -21,7 +21,7 @@
 
 ## FAQ
 
-* [Alta Finance Earn](faq/alta-finance-earn.md)
+* [Alta Finance Earn](faq/altafin-earn.md)
 
 ## DeFi Protocols
 
