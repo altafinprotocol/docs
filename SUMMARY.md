@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-* [Understanding ALTA](getting-started/understanding-alta.md)
-* [Understanding AltaFin Earn](getting-started/understanding-altafin-earn.md)
+* [Understanding ALTA](getting-started/understanding-afn.md)
+* [Understanding Alta Finance Earn](getting-started/understanding-alta-finance-earn.md)
 * [Understanding AltaAsset (raAFN)](getting-started/understanding-altaasset-raafn.md)
 * [Understanding AltaDebt (rdAFN)](getting-started/understanding-altadebt-rdafn.md)
 

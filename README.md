@@ -8,13 +8,13 @@ To learn about our team, go to [https://altafin.co/company/about#team](https://a
 
 ## Getting started
 
-[Understanding AFN](getting-started/understanding-alta.md)
+[Understanding AFN](getting-started/understanding-afn.md)
 
 [Understanding xAFN](broken-reference)
 
 [Understanding AltaHelix Stake](broken-reference)
 
-[Understanding AltaFin Earn](getting-started/understanding-altafin-earn.md)
+[Understanding AltaFin Earn](getting-started/understanding-alta-finance-earn.md)
 
 [Understanding AltaFin Divergence](broken-reference)
 
@@ -34,7 +34,7 @@ Follow our easy-to-use guides to interact with the AltaFin protocols.
 
 ![](.gitbook/assets/altafin\_defi\_helix\_1800x800.png)
 
-[Understanding AFN](getting-started/understanding-alta.md)
+[Understanding AFN](getting-started/understanding-afn.md)
 
 [Understanding xAFN](broken-reference)
 
