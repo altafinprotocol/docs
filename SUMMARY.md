@@ -17,11 +17,11 @@
 
 ## Ecosystem
 
-* [Official Alta Finance links](ecosystem/official-alta-finance-links.md)
+* [Official Alta Finance links](ecosystem/official-altafin-links.md)
 
 ## FAQ
 
-* [AltaFin Earn](faq/altafin-earn.md)
+* [Alta Finance Earn](faq/alta-finance-earn.md)
 
 ## DeFi Protocols
 
