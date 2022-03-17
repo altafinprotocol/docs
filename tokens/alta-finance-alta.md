@@ -1,22 +1,15 @@
 # Alta Finance (ALTA)
 
-#### Single Contract Address: `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`
+#### Address: `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`
 
-### Mainnet
 
-The ALTA token is deployed to the following mainnet networks:
+
+The ALTA token is deployed to the following networks:
 
 * Ethereum
 * Polygon
 
-| Network       | Address                                             |   |
-| ------------- | --------------------------------------------------- | - |
-| Ethereum      | \``` 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` `` |   |
-| Polygon (PoS) | \``` 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` `` |   |
-
-### Testnet
-
-The ALTA token is deployed to the following testnet networks:
+Test networks:
 
 * Ropsten
 * Rinkeby
@@ -24,10 +17,5 @@ The ALTA token is deployed to the following testnet networks:
 * Goerli
 * Mumbai
 
-| Network | Address                                             |   |
-| ------- | --------------------------------------------------- | - |
-| Ropsten | \``` 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` `` |   |
-| Rinkeby | \``` 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` `` |   |
-| Kovan   | \``` 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` `` |   |
-| Goerli  | \``` 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` `` |   |
-| Mumbai  | \``` 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` `` |   |
+
+

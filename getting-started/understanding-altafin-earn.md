@@ -1,6 +1,6 @@
-# Understanding Alta Finance Earn
+# Understanding AltaFin Earn
 
-Earn is an Alta Finance feature that lets you loan your crypto via ALTA and earn up to 19.75% APY in USDC—bringing real asset yields to web3.
+Earn is an AltaFin feature that lets you loan your crypto via AFN and earn up to 12.55% APY in USDC—bringing real asset yields to web3.
 
 Earn is currently supported on the following networks:
 
@@ -9,13 +9,13 @@ Earn is currently supported on the following networks:
 
 ### Earn Terms
 
-AltaFin offers 36, 24, 18, and 1 months terms with up to 19.75% APY.
+AltaFin offers 36, 24, 18, and 1 months terms with up to 12.55% APY.
 
 ![](../.gitbook/assets/open-earn-contract.png)
 
 ### Earn Tiers
 
-Alta Finance offers three different tiers that will unlock different APYs and ALTA bonuses. These terms are subject to change for new earn contracts.
+AltaFin offers three different tiers that will unlock different APYs and AFN bonuses. These terms are subject to change for new earn contracts.
 
 The current tiers are as follows:
 
@@ -35,9 +35,9 @@ You can achieve this tier by investing $5,000
 
 ### Bonus Interest Rate
 
-Real world assets are illiquid by nature which could delay payments from our side. Though delayed payments are never expected, Alta Finance architected a bonus interest rate for additional compensation to the Earn contract holder should the close out take longer than 7 days after the contract close date.&#x20;
+Real-World Assets are illiquid by nature which could delay payments from our side. Though delayed payments are never expected, AltaFin architected a bonus interest rate for compensation.&#x20;
 
-### Start with Alta Finance Earn
+### Start with AltaFin Earn
 
 [How to open an Earn contract](../tutorials/how-to-open-an-earn-contract.md)
 

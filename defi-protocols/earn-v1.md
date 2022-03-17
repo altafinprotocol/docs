@@ -2,11 +2,9 @@
 
 ## Introduction
 
-Welcome to Alta Finance Earn V1.
+Welcome to AltaFin Earn V1.
 
-Earn is an Alta Finance feature that lets you loan your crypto via ALTA and earn up to 19.75% APR in USDC.
-
-Earn makes it easy to have exposure to the underlying real world asset revenue streams wrapped in a smart contract.
+Earn is an AltaFin feature that lets you loan your crypto via AFN and earn up to 12% APR in USDC bringing this way the massive wealth gains of real-world assets to the crypto industry.
 
 You can learn more about AltaFin Earn in:
 
@@ -14,13 +12,13 @@ You can learn more about AltaFin Earn in:
 * [How to open an Earn contract](../tutorials/how-to-open-an-earn-contract.md)
 * [How to put an Earn contract up for bidding](../tutorials/how-to-put-an-earn-contract-up-for-bidding.md)
 
-**Contract Address:** `0x88549Ed1c99ADC0B33B4517B7F70485Ea107a30f`
+Contract Address: `0x88549Ed1c99ADC0B33B4517B7F70485Ea107a30f`
 
-**Deployed Networks:** Ethereum, Polygon
+Deployed Networks: Ethereum, Polygon
 
-**Test Networks:** Ropsten, Goerli,  Rinkeby, Kovan, Mumbai,
+Test Networks: Ropsten, Goerli,  Rinkeby, Kovan, Mumbai,
 
-**Note:** The contract address is the same on all deployed networks.
+Note: The contract address is the same on all deployed networks.
 
 ### Contract ABI
 

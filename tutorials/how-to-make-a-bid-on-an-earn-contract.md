@@ -1,6 +1,6 @@
 # How to make a bid on an Earn contract
 
-1\. Go to [app.alta.finance/earn](https://app.alta.finance/earn)
+1\. Go to [https://app.altafin.co/earn](https://app.altafin.co/earn)
 
 2\. Click For Sale
 
@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/HowToMakeABidOnAnEarnContractMakeABid.png)
 
-5\. Enter the amount of ALTA that you want to offer
+5\. Enter the amount of AFN that you want to offer
 
 6\. Click Make Bid
 

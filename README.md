@@ -1,32 +1,24 @@
-# AltaFin Docs
+# Alta Finance Docs
 
-AltaFin was Founded in 2020 by Jeremy Crane with the mission of bringing real-world assets to the crypto and web3 communities.&#x20;
+Our mission is to bring real world assets into the crypto ecosystem, powered by the Alta Finance ALTA Token.
 
-AltaFin is committed to our core values of Innovation, Passion, Collaboration, and Transparency.
+Alta Finance is committed to our core values of Innovation, Passion, Collaboration, and Transparency.
 
-To learn about our team, go to [https://altafin.co/company/about#team](https://altafin.co/company/about#team)
+To learn about our team, go to [alta.finance/company/about#team](https://alta.finance/company/about#team)
 
 ## Getting started
 
-[Understanding AFN](getting-started/understanding-afn.md)
-
-[Understanding xAFN](broken-reference)
-
-[Understanding AltaHelix Stake](broken-reference)
+[Understanding ALTA](getting-started/understanding-afn.md)
 
 [Understanding AltaFin Earn](getting-started/understanding-altafin-earn.md)
 
-[Understanding AltaFin Divergence](broken-reference)
-
 ## Guides
 
-Follow our easy-to-use guides to interact with the AltaFin protocols.
+Follow our easy-to-use guides to interact with the Alta Finance protocols.
 
-[How to Stake AFN for xAFN](broken-reference)
-
-[Intro to using AltaFin Divergence to arbitrage on decentralized exchanges](broken-reference)
-
-
+{% content-ref url="tutorials/how-to-open-an-earn-contract.md" %}
+[how-to-open-an-earn-contract.md](tutorials/how-to-open-an-earn-contract.md)
+{% endcontent-ref %}
 
 ## DeFi Protocols
 

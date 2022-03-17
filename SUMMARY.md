@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AltaFin Docs](README.md)
+* [Alta Finance Docs](README.md)
 
 ## Getting Started
 
