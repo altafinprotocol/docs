@@ -12,14 +12,13 @@ You can learn more about AltaFin Earn in:
 * [How to open an Earn contract](../tutorials/how-to-open-an-earn-contract.md)
 * [How to put an Earn contract up for bidding](../tutorials/how-to-put-an-earn-contract-up-for-bidding.md)
 
-### Contract Address
+Contract Address: `0x88549Ed1c99ADC0B33B4517B7F70485Ea107a30f`
 
-| Network | Address                                    |
-| ------- | ------------------------------------------ |
-| Mainnet | 0xB2A8680DA8D46C87Ad958fD515aF11DA914ECe0B |
-| Ropsten | 0x8d941F85ddCb67f2aBb5b7368eC3b969d8c7d9c5 |
-| Polygon | 0xE58F260192bEF6352b4c5552a0ef1e43C3B3bF3D |
-| Mumbai  | 0xE6C27c3F6295A5b7Df0b032940de09Ee9d390043 |
+Deployed Networks: Ethereum, Polygon
+
+Test Networks: Ropsten, Goerli,  Rinkeby, Kovan, Mumbai,
+
+Note: The contract address is the same on all deployed networks.
 
 ### Contract ABI
 

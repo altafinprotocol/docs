@@ -37,6 +37,7 @@
 
 ## Tokens
 
+* [Alta Finance (ALTA)](tokens/alta-finance-alta.md)
 * [AltaFin (AFN)](tokens/altafin-afn.md)
 * [AltaHelix (xAFN)](tokens/altahelix-xafn.md)
 * [AltaAsset (raAFN)](tokens/altaasset-raafn.md)
