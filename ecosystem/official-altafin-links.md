@@ -1,17 +1,17 @@
-# Official AltaFin links
+# Official Alta Finance links
 
-* AltaFin **Main Website** [https://altafin.co/](https://altafin.co)
-* AltaFin **Stake** [https://app.altafin.co/stake](https://app.altafin.co/stake)
-* AltaFin **Arbitrage** [https://app.altafin.co/arbitrage](https://app.altafin.co/arbitrage)
-* AltaFin **Earn**  [https://app.altafin.co/earn](https://app.altafin.co/earn)
+* Alta Finance **Main Website** [alta.finance](https://alta.finance)
+* Alta Finance **Updates/Blog** [alta.finance/updates](https://alta.finance/updates)
+* Alta Finance **Earn**  [app.alta.finance/earn](https://app.alta.finance/earn)
 
 #### Social Media
 
-* AltaFin **Discord**: [https://discord.gg/yMcYgQms](https://discord.gg/yMcYgQms)
-* AltaFin **Twitter**: [https://twitter.com/altafinprotocol](https://twitter.com/altafinprotocol)
-* AltaFin **LinkedIn**: [https://www.linkedin.com/company/altafin/](https://www.linkedin.com/company/altafin/)
-* AltaFin **Telegram**: [https://t.me/altafinprotocol](https://t.me/altafinprotocol)
-* AltaFin Quant **Twitter**: [https://twitter.com/altafinquant](https://twitter.com/altafinquant)&#x20;
+* Alta Finance **Discord**: [https://discord.gg/yMcYgQms](https://discord.gg/yMcYgQms)
+* Alta Finance **Twitter**: [https://twitter.com/altafinprotocol](https://twitter.com/altafinprotocol)
+* Alta Finance **LinkedIn**: [https://www.linkedin.com/company/altafin/](https://www.linkedin.com/company/altafin/)
+* Alta Finance **Telegram**: [https://t.me/altafinprotocol](https://t.me/altafinprotocol)
+
+
 
 
 
