@@ -20,20 +20,21 @@ To learn about our team, go to [alta.finance/company/about#team](https://alta.fi
 
 Follow our easy-to-use guides to interact with the Alta Finance protocols.
 
-{% content-ref url="tutorials/how-to-open-an-earn-contract.md" %}
-[how-to-open-an-earn-contract.md](tutorials/how-to-open-an-earn-contract.md)
-{% endcontent-ref %}
+[How to open an Earn Contract](tutorials/how-to-open-an-earn-contract.md)
+
+[How to put an Earn contract up for bidding](tutorials/how-to-put-an-earn-contract-up-for-bidding.md)
+
+[How to make a bid on an Earn contract](tutorials/how-to-make-a-bid-on-an-earn-contract.md)
 
 ## DeFi Protocols
 
-[Understanding ALTA](getting-started/understanding-afn.md)
+[Earn V1](defi-protocols/earn-v1.md)
 
-### To interact with our products, please explore the links below:
+## Ecosystem
 
-* AltaFin Main Website [https://altafin.co/](https://altafin.co)
-* AltaFin Earn  [app.alta.finance/earn](https://app.alta.finance/earn)
+[Official Alta Finance links](ecosystem/official-altafin-links.md)
 
-### Connect with AltaFin
+## Connect with AltaFin
 
 #### Discord
 
