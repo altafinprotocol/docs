@@ -8,7 +8,7 @@ Earn is an AltaFin feature that lets you loan your crypto via AFN and earn up to
 
 You can learn more about AltaFin Earn in:
 
-* [Understanding AltaFin Earn](../getting-started/understanding-alta-finance-earn.md)
+* [Understanding AltaFin Earn](../getting-started/understanding-altafin-earn.md)
 * [How to open an Earn contract](../tutorials/how-to-open-an-earn-contract.md)
 * [How to put an Earn contract up for bidding](../tutorials/how-to-put-an-earn-contract-up-for-bidding.md)
 

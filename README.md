@@ -14,7 +14,7 @@ To learn about our team, go to [https://altafin.co/company/about#team](https://a
 
 [Understanding AltaHelix Stake](broken-reference)
 
-[Understanding AltaFin Earn](getting-started/understanding-alta-finance-earn.md)
+[Understanding AltaFin Earn](getting-started/understanding-altafin-earn.md)
 
 [Understanding AltaFin Divergence](broken-reference)
 

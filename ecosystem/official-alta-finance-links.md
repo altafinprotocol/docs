@@ -1,11 +1,8 @@
-# Official AltaFin links
+# Official Alta Finance links
 
-* AltaFin **Main Website** [https://altafin.co/](https://altafin.co)
-* AltaFin **Stake** [https://app.altafin.co/stake](https://app.altafin.co/stake)
-
-
-
-* AltaFin **Earn**  [https://app.altafin.co/earn](https://app.altafin.co/earn)
+* Alta Finance **Main Website** [alta.finance](https://alta.finance)
+* AltaFin **Updates/Blog** [alta.finance/updates](https://alta.finance/updates)
+* AltaFin **Earn**  [app.alta.finance/earn](https://app.alta.finance/earn)
 
 #### Social Media
 
