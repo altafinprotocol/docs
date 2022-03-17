@@ -8,23 +8,23 @@ To learn about our team, go to [https://altafin.co/company/about#team](https://a
 
 ## Getting started
 
-[Understanding AFN](getting-started/understanding-afn.md)
+[Understanding AFN](getting-started/understanding-alta.md)
 
-[Understanding xAFN](getting-started/understanding-xafn.md)
+[Understanding xAFN](broken-reference)
 
-[Understanding AltaHelix Stake](getting-started/understanding-altahelix-stake.md)
+[Understanding AltaHelix Stake](broken-reference)
 
 [Understanding AltaFin Earn](getting-started/understanding-altafin-earn.md)
 
-[Understanding AltaFin Divergence](getting-started/understanding-altafin-divergence.md)
+[Understanding AltaFin Divergence](broken-reference)
 
 ## Guides
 
 Follow our easy-to-use guides to interact with the AltaFin protocols.
 
-[How to Stake AFN for xAFN](tutorials/how-to-stake-afn-for-xafn.md)
+[How to Stake AFN for xAFN](broken-reference)
 
-[Intro to using AltaFin Divergence to arbitrage on decentralized exchanges](tutorials/intro-to-using-altafin-divergence-to-arbitrage-on-decentralized-exchanges.md)
+[Intro to using AltaFin Divergence to arbitrage on decentralized exchanges](broken-reference)
 
 
 
@@ -34,21 +34,21 @@ Follow our easy-to-use guides to interact with the AltaFin protocols.
 
 ![](.gitbook/assets/altafin\_defi\_helix\_1800x800.png)
 
-[Understanding AFN](getting-started/understanding-afn.md)
+[Understanding AFN](getting-started/understanding-alta.md)
 
-[Understanding xAFN](getting-started/understanding-xafn.md)
+[Understanding xAFN](broken-reference)
 
-[Understanding AltaHelix Stake](getting-started/understanding-altahelix-stake.md)
+[Understanding AltaHelix Stake](broken-reference)
 
-[How to Stake AFN for xAFN](tutorials/how-to-stake-afn-for-xafn.md)
+[How to Stake AFN for xAFN](broken-reference)
 
 ### Arbitrage
 
 ![](https://images.ctfassets.net/dj2ij87ekk1y/6GzgZTE9Smg9Wmm0Hl4ZFJ/5fa313c4dcee087b107226d5aae64117/altafin\_defi\_divergence\_1800x800.png)
 
-[Understanding AltaFin Divergence](getting-started/understanding-altafin-divergence.md)
+[Understanding AltaFin Divergence](broken-reference)
 
-[Intro to using AltaFin Divergence to arbitrage on decentralized exchanges](tutorials/intro-to-using-altafin-divergence-to-arbitrage-on-decentralized-exchanges.md)
+[Intro to using AltaFin Divergence to arbitrage on decentralized exchanges](broken-reference)
 
 ### To interact with our products, please explore the links below:
 
