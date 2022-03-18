@@ -1,10 +1,10 @@
 # How to open an Earn contract
 
-AltaFin Earn is a unique feature that brings real-world assets to the crypto and web3 communities.
+Alta Finance Earn is a unique feature that brings real-world assets to the crypto and web3 communities.
 
 Opening a contract could be achieved by:
 
-1\. Go to [app.altafin.co/earn](https://app.altafin.co/earn)
+1\. Go to [app.alta.finance/earn](https://app.alta.finance/earn)
 
 2\. Connect your wallet
 
@@ -12,11 +12,11 @@ Opening a contract could be achieved by:
 
 ![](../.gitbook/assets/HowToOpenAnEarnContract.png)
 
-4\.  Click Approve AFN (This will only show up if your wallet is not approved yet)
+4\.  Click Approve ALTA (This will only show up if your wallet is not approved yet)
 
 ![](../.gitbook/assets/HowToOpenAnEarnContractContract.png)
 
-5\. Enter the AFN Amount that you want to invest
+5\. Enter the ALTA Amount that you want to invest
 
 6\. Select the desired term
 

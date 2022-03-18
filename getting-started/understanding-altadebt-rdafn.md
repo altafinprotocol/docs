@@ -1,8 +1,8 @@
 # Understanding AltaDebt (rdAFN)
 
-This non-trade-able internal-use only USD stablecoin represents any real-world liabilities (debt) that AltaFin is obligated to for real estate including private loans, mortgages, and seller-financing or seller carry.
+This non-trade-able internal-use only USD stablecoin represents any real-world liabilities (debt) that Alta Finance is obligated to for real estate including private loans, mortgages, and seller-financing or seller carry.
 
-AltaFin will publicly announce anytime we conduct a mint/burn.
+Alta Finance will publicly announce anytime we conduct a mint/burn.
 
 #### Mint
 

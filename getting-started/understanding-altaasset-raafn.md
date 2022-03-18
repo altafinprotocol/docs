@@ -1,8 +1,8 @@
 # Understanding AltaAsset (raAFN)
 
-This non-trade-able internal-use only USD stablecoin represents any real-world assets that AltaFin owns, including land, commercial buildings, multi-family apartments, and condos.
+This non-trade-able internal-use only USD stablecoin represents any real-world assets that Alta Finance owns, including land, commercial buildings, multi-family apartments, and condos.
 
-AltaFin will publicly announce anytime we conduct a mint/burn.
+Alta Finance will publicly announce anytime we conduct a mint/burn.
 
 #### Mint
 
