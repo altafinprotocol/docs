@@ -1,4 +1,4 @@
-# Earn Rates Endpoints
+# Earn Rates Endpoint
 
 ### **Project Data**
 
