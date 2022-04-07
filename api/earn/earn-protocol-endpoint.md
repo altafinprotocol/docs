@@ -1,6 +1,6 @@
 # Earn Protocol Endpoint
 
-### **Project Data**
+### **Endpoint**
 
 Alta Finance has an Earn API endpoint that will return details about the Earn protocol by network in addition to **tvl** across all networks in aggregate.
 

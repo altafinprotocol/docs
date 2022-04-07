@@ -35,5 +35,10 @@
 
 ## API
 
-* [ALTA Token Supply Endpoints](api/afn-token-supply-endpoints.md)
-* [Earn Protocol Endpoint](api/earn-protocol-endpoint.md)
+* [Earn](api/earn/README.md)
+  * [Earn Protocol Endpoint](api/earn/earn-protocol-endpoint.md)
+  * [Earn Rates Endpoint](api/earn/earn-rates-endpoint.md)
+* [Token](api/token/README.md)
+  * [ALTA Endpoint](api/token/alta-endpoint.md)
+* [Treasury](api/treasury/README.md)
+  * [Treasury Endpoint](api/treasury/treasury-endpoint.md)
