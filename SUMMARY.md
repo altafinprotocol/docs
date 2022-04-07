@@ -36,4 +36,4 @@
 ## API
 
 * [ALTA Token Supply Endpoints](api/afn-token-supply-endpoints.md)
-* [Earn Rates Endpoint](api/earn-rates-endpoint.md)
+* [Earn Protocol Endpoint](api/earn-protocol-endpoint.md)

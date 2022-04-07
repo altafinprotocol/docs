@@ -1,10 +1,12 @@
-# Earn Rates Endpoint
+# Earn Protocol Endpoint
 
 ### **Project Data**
 
-Alta Finance has an Earn API endpoint that will return details about the Earn protocol by network in addition to **tvl** across all networks in aggregate**.**
+Alta Finance has an Earn API endpoint that will return details about the Earn protocol by network in addition to **tvl** across all networks in aggregate.
 
 **tvl** is returned in `usdc` units.
+
+**maxAPR** is returned in `percentage` units.
 
 **aprBase** and **aprBonus** are returned in `percentage` units.
 
@@ -16,6 +18,7 @@ Alta Finance has an Earn API endpoint that will return details about the Earn pr
 // Earn API Endpoint Response
 {
     "tvl": 2550.973029221971,
+    "maxAPR": 0.1975,
     "data": [
         {
             "contractAddress": "0x88549Ed1c99ADC0B33B4517B7F70485Ea107a30f",
