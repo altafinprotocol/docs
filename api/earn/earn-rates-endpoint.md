@@ -6,9 +6,21 @@ Alta Finance has an Earn Rates API endpoint that will return details about the i
 
 **apy** and **apr** are returned in `percentage` units.
 
-`GET https://alta.finance/api/earn/rates`
+> GET https://alta.finance/api/earn/rates
+
+### The Earn Rates object
+
+#### Attributes
+
+––
+
+**data**
+
+This is the lending rates offered by Alta Finance Earn Protocol broken down by asset and network.
 
 **Response**
+
+**––**
 
 ```
 {
@@ -23,8 +35,8 @@ Alta Finance has an Earn Rates API endpoint that will return details about the i
                     },
                     {
                         "tokenSymbol": "ALTA",
-                        "apr": 0,
-                        "apy": 0
+                        "apr": 0.0747,
+                        "apy": 0.07657546824899986
                     }
                 ],
                 "borrowRates": []
@@ -40,8 +52,8 @@ Alta Finance has an Earn Rates API endpoint that will return details about the i
                     },
                     {
                         "tokenSymbol": "ALTA",
-                        "apr": 0,
-                        "apy": 0
+                        "apr": 0.0747,
+                        "apy": 0.07657546824899986
                     }
                 ],
                 "borrowRates": []

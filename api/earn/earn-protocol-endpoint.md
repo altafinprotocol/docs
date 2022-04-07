@@ -10,9 +10,29 @@ Alta Finance has an Earn API endpoint that will return details about the Earn pr
 
 **aprBase** and **aprBonus** are returned in `percentage` units.
 
-`GET https://alta.finance/api/earn`
+> GET https://alta.finance/api/earn
+
+### The Earn Procotol object
+
+#### Attributes
+
+––
+
+**tvl**
+
+The total value of Earn contracts that have been opened.
+
+**maxAPR**
+
+The current max USDC apr rate.
+
+**data**
+
+The individual rates and tvl broken down by network.
 
 **Response**
+
+––
 
 ```
 // Earn API Endpoint Response

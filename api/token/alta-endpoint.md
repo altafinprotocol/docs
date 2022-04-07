@@ -6,13 +6,25 @@ Alta Finance has an ALTA token API endpoint that will return details about the A
 
 **totalSupply** and **totalCirculating** values are returned in `ether` units.
 
-`GET https://alta.finance/api/project`
+> GET https://alta.finance/api/project
 
 ### ALTA object
 
+#### Attributes
 
+––
 
-**Response**
+**project**
+
+Details about the project including the name, asset ticker, url, and asset logo.
+
+**protocol**
+
+The contract of the ERC-20 token broken down by network.
+
+#### **Response**
+
+**––**
 
 ```
 // Project API Endpoint Response
@@ -46,9 +58,11 @@ Alta Finance has an ALTA token API endpoint that will return details about the A
 
 API endpoint that will return the **totalCirculating** value.
 
-`GET https://alta.finance/api/project/supply/circulating`
+> GET https://alta.finance/api/project/supply/circulating
 
 **Response**
+
+**––**
 
 ```
 { 
@@ -60,9 +74,11 @@ API endpoint that will return the **totalCirculating** value.
 
 API endpoint that will return the **totalSupply** value.
 
-`GET https://alta.finance/api/project/supply/total`
+> GET https://alta.finance/api/project/supply/total
 
 **Response**
+
+**––**
 
 ```
 { 
