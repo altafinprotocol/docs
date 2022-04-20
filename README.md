@@ -12,9 +12,9 @@ To learn about our team, go to [alta.finance/company/about#team](https://alta.fi
 
 [Understanding Alta Finance Earn](getting-started/understanding-altafin-earn.md)
 
-[Understanding AltaAsset (raAFN)](getting-started/understanding-altaasset-raafn.md)
+[Understanding AltaAsset (raAFN)](getting-started/understanding-altaasset-raalta.md)
 
-[Understanding AltaDebt (rdAFN)](getting-started/understanding-altadebt-rdafn.md)
+[Understanding AltaDebt (rdAFN)](getting-started/understanding-altadebt-rdalta.md)
 
 ## Guides
 

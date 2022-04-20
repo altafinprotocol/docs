@@ -9,7 +9,7 @@ Earn is currently supported on the following networks:
 
 ### Earn Terms
 
-AltaFin offers 36, 24, 18, and 1 months terms with up to 19.75% APY.
+Alta Finance currently offers 18, 24, 36, and 60 months terms with up to 8.88% APY though these rates vary from time to time so make sure to check our Earn app.
 
 ![](../.gitbook/assets/open-earn-contract.png)
 

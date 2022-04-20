@@ -6,11 +6,11 @@ Welcome to Alta Finance Earn V1.
 
 Earn is an Alta Finance feature that lets you loan your crypto via ALTA and earn up to 19.75% APR in USDC.
 
-Earn makes it easy to have exposure to the underlying real world asset revenue streams wrapped in a smart contract.
+Earn makes it easy to have exposure to the underlying real-world asset revenue streams wrapped in a smart contract.
 
-You can learn more about AltaFin Earn in:
+You can learn more about Alta Finance Earn in:
 
-* [Understanding AltaFin Earn](../getting-started/understanding-altafin-earn.md)
+* [Understanding Alta Finance Earn](../getting-started/understanding-altafin-earn.md)
 * [How to open an Earn contract](../tutorials/how-to-open-an-earn-contract.md)
 * [How to put an Earn contract up for bidding](../tutorials/how-to-put-an-earn-contract-up-for-bidding.md)
 
