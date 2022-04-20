@@ -1,6 +1,6 @@
 # Understanding Alta Finance Earn
 
-Alta Finance Earn is a lending protocol where you can lend ALTA to receive up to 19.75% APY paid back in USDC—bringing real asset yields to web3.
+Alta Finance Earn is a lending protocol where you can lend ALTA to receive up to 8.88% APY paid back in USDC—bringing real asset yields to web3.
 
 ### What makes Earn different?
 
