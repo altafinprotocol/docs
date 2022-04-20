@@ -1,4 +1,4 @@
-# AltaAsset (raAFN)
+# AltaAsset (raALTA)
 
 ### Mainnet Contracts
 

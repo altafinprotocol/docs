@@ -1,4 +1,4 @@
-# AltaDebt (rdAFN)
+# AltaDebt (rdALTA)
 
 ### Mainnet Contracts
 

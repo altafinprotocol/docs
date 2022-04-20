@@ -10,8 +10,8 @@
 
 * [Understanding ALTA](getting-started/understanding-afn.md)
 * [Understanding Alta Finance Earn](getting-started/understanding-altafin-earn.md)
-* [Understanding AltaAsset (raALTA)](getting-started/understanding-altaasset-raalta.md)
-* [Understanding AltaDebt (rdALTA)](getting-started/understanding-altadebt-rdalta.md)
+* [Understanding Alta Asset (raALTA)](getting-started/understanding-alta-asset-raalta.md)
+* [Understanding AltaDebt (rdALTA)](getting-started/understanding-altadebt-rdafn.md)
 
 ## Tutorials
 
@@ -33,8 +33,8 @@
 ## Tokens
 
 * [Alta Finance (ALTA)](tokens/alta-finance-alta.md)
-* [AltaAsset (raALTA)](tokens/altaasset-raalta.md)
-* [AltaDebt (rdALTA)](tokens/altadebt-rdalta.md)
+* [AltaAsset (raALTA)](tokens/altaasset-raafn.md)
+* [AltaDebt (rdALTA)](tokens/altadebt-rdafn.md)
 
 ## API
 

@@ -1,36 +1,26 @@
 # Understanding Alta Finance Earn
 
-Earn is an Alta Finance feature that lets you loan your crypto via ALTA and earn up to 19.75% APY in USDC—bringing real asset yields to web3.
+Alta Finance Earn is a lending protocol where you can lend ALTA to receive up to 19.75% APY paid back in USDC—bringing real asset yields to web3.
 
-Earn is currently supported on the following networks:
+### What makes Earn different?
+
+Earn is different from other DeFi protocols because it provides a fixed-rate, stable yield secured by real assets.
+
+### How it works:
+
+ALTA tokens used to open an Earn Contract are immediately swapped for USDC. This amount is the principal value of the Earn Contract. Alta Finance deploys the USDC into real world assets which return a yield. The funds are then returned back to the protocol. Earn Contract owners are paid back their principal plus the interest of their selected Earn Term. The Earn Contract principal value is locked until term maturation, but the interest is redeemable instantly as it accrues.
+
+### Supported Networks
 
 * Ethereum
 * Polygon
+* More coming soon
 
 ### Earn Terms
 
 Alta Finance currently offers 18, 24, 36, and 60 months terms with up to 8.88% APY though these rates vary from time to time so make sure to check our Earn app.
 
 ![](../.gitbook/assets/open-earn-contract.png)
-
-### Earn Tiers
-
-Alta Finance offers three different tiers that will unlock different APYs and ALTA bonuses. These terms are subject to change for new earn contracts.
-
-#### Tier Thresholds
-
-| Low    | Medium  | High     |   |
-| ------ | ------- | -------- | - |
-| $5,000 | $25,000 | $150,000 |   |
-
-#### ALTA Bonuses
-
-|          | Low   | Medium | High    |   |
-| -------- | ----- | ------ | ------- | - |
-| 1-month  | 100   | 4,000  | 20,000  |   |
-| 18-month | 250   | 8,000  | 40,000  |   |
-| 24-month | 500   | 13,000 | 65,000  |   |
-| 36-month | 1,000 | 20,000 | 100,000 |   |
 
 ### Bonus Interest Rate
 
