@@ -10,6 +10,7 @@
 * Alta Finance **Twitter**: [https://twitter.com/altafinprotocol](https://twitter.com/altafinprotocol)
 * Alta Finance **LinkedIn**: [https://www.linkedin.com/company/altafin/](https://www.linkedin.com/company/altafin/)
 * Alta Finance **Telegram**: [https://t.me/altafinprotocol](https://t.me/altafinprotocol)
+* Alta Finance **Medium**: [https://medium.com/alta-finance](https://medium.com/alta-finance)
 
 
 
