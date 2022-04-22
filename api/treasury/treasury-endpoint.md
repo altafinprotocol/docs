@@ -1,14 +1,14 @@
 # Treasury Endpoint
 
-### **Endpoint**
+## **Endpoint**
 
 Alta Finance has a Treasury API endpoint that will return details about the Alta Finance Treasury.
 
 > GET https://alta.finance/api/earn/rates
 
-### The Treasury object
+## The Treasury object
 
-#### Attributes
+### Attributes
 
 ––
 
@@ -42,7 +42,7 @@ This represents the real world asset funds. The values of these are created foll
 
 This represents the combined value of ALTA across the different blockchain networks, (note: this is the only attribute that includes vault value).
 
-#### **Response**
+### **Response**
 
 **––**
 

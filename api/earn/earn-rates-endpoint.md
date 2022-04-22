@@ -1,6 +1,6 @@
 # Earn Rates Endpoint
 
-### **Endpoint**
+## **Endpoint**
 
 Alta Finance has an Earn Rates API endpoint that will return details about the individual max USDC rates calculated in **APY** and **APR**, separated by network.
 
@@ -8,9 +8,9 @@ Alta Finance has an Earn Rates API endpoint that will return details about the i
 
 > GET https://alta.finance/api/earn/rates
 
-### The Earn Rates object
+## The Earn Rates object
 
-#### Attributes
+### Attributes
 
 ––
 
@@ -18,7 +18,7 @@ Alta Finance has an Earn Rates API endpoint that will return details about the i
 
 This is the lending rates offered by Alta Finance Earn Protocol broken down by asset and network.
 
-**Response**
+### **Response**
 
 **––**
 

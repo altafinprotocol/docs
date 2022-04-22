@@ -1,6 +1,6 @@
 # Earn Protocol Endpoint
 
-### **Endpoint**
+## **Endpoint**
 
 Alta Finance has an Earn API endpoint that will return details about the Earn protocol by network in addition to **tvl** across all networks in aggregate.
 
@@ -12,9 +12,9 @@ Alta Finance has an Earn API endpoint that will return details about the Earn pr
 
 > GET https://alta.finance/api/earn
 
-### The Earn Procotol object
+## The Earn Procotol object
 
-#### Attributes
+### Attributes
 
 ––
 
@@ -30,7 +30,7 @@ The current max USDC apr rate.
 
 The individual rates and tvl broken down by network.
 
-**Response**
+### **Response**
 
 ––
 

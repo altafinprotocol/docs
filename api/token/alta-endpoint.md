@@ -1,6 +1,6 @@
 # ALTA Endpoint
 
-### **Endpoint**
+## **Endpoint**
 
 Alta Finance has an ALTA token API endpoint that will return details about the ALTA token in addition to **totalSupply** and **totalCirculating** values.
 
@@ -8,9 +8,9 @@ Alta Finance has an ALTA token API endpoint that will return details about the A
 
 > GET https://alta.finance/api/project
 
-### ALTA object
+## ALTA object
 
-#### Attributes
+### Attributes
 
 ––
 
@@ -22,7 +22,7 @@ Details about the project including the name, asset ticker, url, and asset logo.
 
 The contract of the ERC-20 token broken down by network.
 
-#### **Response**
+### **Response**
 
 **––**
 
