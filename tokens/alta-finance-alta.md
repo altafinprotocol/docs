@@ -1,20 +1,19 @@
 # Alta Finance (ALTA)
 
-#### Single Contract Address: `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`
-
-### Mainnet
+## Mainnet
 
 The ALTA token is deployed to the following mainnet networks:
 
 * Ethereum
 * Polygon
 
-| Network       | Address                                      |   |
-| ------------- | -------------------------------------------- | - |
-| Ethereum      | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` |   |
-| Polygon (PoS) | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5` |   |
+| Network       | Address                                        |   |
+| ------------- | ---------------------------------------------- | - |
+| Ethereum      | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`   |   |
+| Polygon (PoS) | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`   |   |
+| Solana (SPL)  | `E78aV9YHp1EcYMw4u1U5DERWJuFnrtVxYTtdPdpwVzK4` |   |
 
-### Testnet
+## Testnet
 
 The ALTA token is deployed to the following testnet networks:
 
