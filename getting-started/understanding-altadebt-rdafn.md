@@ -6,11 +6,11 @@ The sole intended purpose of this token is for public transparency of Alta Finan
 
 Alta Finance will publicly announce anytime we conduct a mint/burn.
 
-#### Mint
+## Mint
 
 We will only mint when we acquire debt for the purchase of an asset.
 
-#### Burn
+## Burn
 
 We will only burn as we pay down debt either according to our regularly scheduled debt obligations or as we complete projects.
 

@@ -7,7 +7,7 @@ ALTA is an ERC-20 token currently issued on Ethereum and Polygon (more chains co
 The token's contract address is: 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5\
 
 
-### **Token Utility**
+## **Token Utility**
 
 **Rewards**
 
@@ -23,7 +23,7 @@ The token's contract address is: 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5\
 * ALTA is accepted as a lending asset to open Earn saving contracts
 * Long-term ALTA holders will accumulate more voting power for governance
 
-### **Token Distribution**
+## **Token Distribution**
 
 | Allocation                     | Distribution                                                                                                                                                                                                                                 |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,17 +31,17 @@ The token's contract address is: 0xe0cCa86B254005889aC3a81e737f56a14f4A38F5\
 | Team and advisors              | • 800,000,000 AFN Tokens (8%) • Team and advisors involved in the launch & execution of the AltaFin Protocol • Tokens are vested; see release schedule below.                                                                                |
 | Vault reserve & general supply | • 8,000,000,000 AFN Tokens (80%) • Reserved for Alta Finance bonus interest payments, rewards, staking, DeFi protocol fees, strategic liquidity and governance • Strategic market liquidity providers to maintain secondary markets for ALTA |
 
-### Roadmap
+## Roadmap
 
 Here you can find AltaFin's roadmap: [https://alta.finance/token/roadmap](https://alta.finance/token/roadmap)
 
-### Token Transparency
+## Token Transparency
 
 Here you can find AltaFin's Treasury: [https://alta.finance/token/treasury](https://alta.finance/token/treasury)
 
-### How can I get AFN?
+## How can I get ALTA?
 
-#### Global Exchanges
+### Global Exchanges
 
 Exchange and token information can be found at the following sites:
 
@@ -53,11 +53,11 @@ CoinGecko®: [https://www.coingecko.com/en/coins/alta-finance](https://www.coing
 
 Nomics: [https://nomics.com/assets/alta2-alta-finance](https://nomics.com/assets/alta2-alta-finance)
 
-#### AMM's
+### AMM's
 
 The ALTA token is now available for an instant swap via your Web3 wallet.
 
-#### Earn Bonus
+### Earn Bonus
 
 Currently, earn an ALTA bonus on Earn contracts.
 
