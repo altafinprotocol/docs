@@ -6,12 +6,15 @@ The ALTA token is deployed to the following mainnet networks:
 
 * Ethereum
 * Polygon
+* Avalanche
+* Solana
 
-| Network       | Address                                        |   |
-| ------------- | ---------------------------------------------- | - |
-| Ethereum      | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`   |   |
-| Polygon (PoS) | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`   |   |
-| Solana (SPL)  | `E78aV9YHp1EcYMw4u1U5DERWJuFnrtVxYTtdPdpwVzK4` |   |
+| Network              | Address                                        |   |
+| -------------------- | ---------------------------------------------- | - |
+| Ethereum             | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`   |   |
+| Polygon (PoS)        | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`   |   |
+| Avalanache (C-chain) | `0xe0cCa86B254005889aC3a81e737f56a14f4A38F5`   |   |
+| Solana (SPL)         | `E78aV9YHp1EcYMw4u1U5DERWJuFnrtVxYTtdPdpwVzK4` |   |
 
 ## Testnet
 
