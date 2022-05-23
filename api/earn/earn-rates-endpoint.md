@@ -24,42 +24,32 @@ This is the lending rates offered by Alta Finance Earn Protocol broken down by a
 
 ```
 {
-    "data": [
-        {
-            "ethereum": {
-                "lendRates": [
-                    {
-                        "tokenSymbol": "USDC",
-                        "apy": 0.2107874068287039,
-                        "apr": 0.1975
-                    },
-                    {
-                        "tokenSymbol": "ALTA",
-                        "apr": 0.0747,
-                        "apy": 0.07657546824899986
-                    }
-                ],
-                "borrowRates": []
-            }
-        },
-        {
-            "polygon": {
-                "lendRates": [
-                    {
-                        "tokenSymbol": "USDC",
-                        "apy": 0.2107874068287039,
-                        "apr": 0.1975
-                    },
-                    {
-                        "tokenSymbol": "ALTA",
-                        "apr": 0.0747,
-                        "apy": 0.07657546824899986
-                    }
-                ],
-                "borrowRates": []
-            }
-        }
-    ]
+  "data": [
+    {
+      "ethereum": {
+        "lendRates": [
+          { "tokenSymbol": "USDC", "apy": 0.10695129284612537, "apr": 0.10335 },
+          { "tokenSymbol": "USDT", "apy": 0.10695129284612537, "apr": 0.10335 },
+          { "tokenSymbol": "DAI", "apy": 0.10695129284612537, "apr": 0.10335 },
+          { "tokenSymbol": "FRAX", "apy": 0.10695129284612537, "apr": 0.10335 },
+          { "tokenSymbol": "ALTA", "apy": 0.10695129284612537, "apr": 0.10335 }
+        ],
+        "borrowRates": []
+      }
+    },
+    {
+      "polygon": {
+        "lendRates": [
+          { "tokenSymbol": "USDC", "apy": 0.10695129284612537, "apr": 0.10335 },
+          { "tokenSymbol": "USDT", "apy": 0.10695129284612537, "apr": 0.10335 },
+          { "tokenSymbol": "DAI", "apy": 0.10695129284612537, "apr": 0.10335 },
+          { "tokenSymbol": "FRAX", "apy": 0.10695129284612537, "apr": 0.10335 },
+          { "tokenSymbol": "ALTA", "apy": 0.10695129284612537, "apr": 0.10335 }
+        ],
+        "borrowRates": []
+      }
+    }
+  ]
 }
 ```
 

@@ -37,31 +37,30 @@ The individual rates and tvl broken down by network.
 ```
 // Earn API Endpoint Response
 {
-  "tvl": 9246931.603002686,
-  "maxAPR": 0.10335,
-  "data": [
-    {
-      "contractAddress": "0xaaaaaa7a1cff5a1e91d57f4a2c8f8dfc9c60116c",
-      "aprBase": 0.10335,
-      "aprBonus": 0,
-      "symbolBase": ["USDC", "USDT", "DAI", "FRAX", "ALTA"],
-      "symbolBonus": "",
-      "tvl": 9019625.126175,
-      "network": "ethereum",
-      "link": "https://app.alta.finance/earn"
-    },
-    {
-      "contractAddress": "0xaaaaaa7a1cff5a1e91d57f4a2c8f8dfc9c60116c",
-      "aprBase": 0.10335,
-      "aprBonus": 0,
-      "symbolBase": ["USDC", "USDT", "DAI", "FRAX", "ALTA"],
-      "symbolBonus": "",
-      "tvl": 227306.47682768747,
-      "network": "polygon",
-      "link": "https://app.alta.finance/earn"
-    }
-  ]
+    "tvl": 2550.973029221971,
+    "maxAPR": 0.1975,
+    "data": [
+        {
+            "contractAddress": "0x88549Ed1c99ADC0B33B4517B7F70485Ea107a30f",
+            "aprBase": 0.1975,
+            "aprBonus": 0.07479466666666668,
+            "symbolBase": "USDC",
+            "symbolBonus": "AFN",
+            "tvl": 1680.3586932462013,
+            "network": "ethereum",
+            "link": "https://app.alta.finance/earn"
+        },
+        {
+            "contractAddress": "0x88549Ed1c99ADC0B33B4517B7F70485Ea107a30f",
+            "aprBase": 0.1975,
+            "aprBonus": 0.07479466666666668,
+            "symbolBase": "USDC",
+            "symbolBonus": "AFN",
+            "tvl": 870.61433597577,
+            "network": "polygon",
+            "link": "https://app.alta.finance/earn"
+        }
+    ]
 }
-
 ```
 
