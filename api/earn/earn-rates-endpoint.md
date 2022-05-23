@@ -23,6 +23,7 @@ This is the lending rates offered by Alta Finance Earn Protocol broken down by a
 **––**
 
 ```
+// Earn Rates API Endpoint Response
 {
   "data": [
     {
