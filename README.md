@@ -28,7 +28,7 @@ Follow our easy-to-use guides to interact with the Alta Finance protocols.
 
 ## DeFi Protocols
 
-[Earn V1](defi-protocols/earn-v1/)
+[Earn V1](defi-protocols/earn-v1-deprecated/)
 
 ## Ecosystem
 

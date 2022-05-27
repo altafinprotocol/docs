@@ -28,8 +28,10 @@
 
 ## DeFi Protocols
 
-* [Earn V1](defi-protocols/earn-v1/README.md)
-  * [Contract ABI](defi-protocols/earn-v1/contract-abi.md)
+* [Earn V2](defi-protocols/earn-v2/README.md)
+  * [Contract ABI](defi-protocols/earn-v2/contract-abi.md)
+* [Earn V1 \[DEPRECATED\]](defi-protocols/earn-v1-deprecated/README.md)
+  * [Contract ABI](defi-protocols/earn-v1-deprecated/contract-abi.md)
 
 ## Tokens
 
