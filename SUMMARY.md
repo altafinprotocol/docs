@@ -4,7 +4,7 @@
 
 ## Ecosystem
 
-* [Official Alta Finance links](ecosystem/official-altafin-links.md)
+* [Official Alta Finance Links](ecosystem/official-altafin-links.md)
 
 ## Getting Started
 
