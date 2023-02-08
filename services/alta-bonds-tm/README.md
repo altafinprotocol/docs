@@ -4,7 +4,7 @@ description: Financing company growth using our Web3 corporate bond program.
 
 # ALTA Bonds™
 
-### What is ALTA Bonds?
+### What are ALTA Bonds?
 
 ALTA Bonds are debt instruments utilized to finance company growth, capital expenditures, and technology investments in the core business, outside the scope of real-estate-specific investments.
 
