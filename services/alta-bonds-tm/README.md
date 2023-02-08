@@ -1,8 +1,6 @@
----
-description: Financing company growth using our Web3 corporate bond program.
----
-
 # ALTA Bonds™
+
+## Financing company growth using our Web3 corporate bond program.
 
 ### What are ALTA Bonds?
 
