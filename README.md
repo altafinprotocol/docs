@@ -2,6 +2,8 @@
 
 ## Welcome to the ALTA Finance Documentation
 
+<figure><img src=".gitbook/assets/altafinance-web3investing.png" alt=""><figcaption></figcaption></figure>
+
 Here at ALTA Finance, we are dedicated to revolutionizing the world of real estate investing through the power of Web3. Our mission is to make the process of investing in real estate easy, efficient, and accessible to everyone.
 
 At ALTA Finance, we firmly believe in the principles of Innovation, Passion, Collaboration, and Transparency. These core values drive everything we do and serve as the foundation of our organization. We are constantly pushing the boundaries of what is possible, seeking new ways to leverage technology and blockchain to transform the real estate industry.
